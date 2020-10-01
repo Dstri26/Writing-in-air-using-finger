@@ -8,8 +8,8 @@ x1 = []             ##List to store x coordinates
 y1 = []             ##List to store y coordinates
 Kernal = np.ones((5,5), np.uint8)
 cap = cv2.VideoCapture(0)
-cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1280)     ##Change resolution of the camera
-cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)
+cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1080)     ##Change resolution(width) of the camera
+cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)      ##Change resolution(height) of the camera
 _, frame =cap.read()
 print(frame.shape)
 while(1):
