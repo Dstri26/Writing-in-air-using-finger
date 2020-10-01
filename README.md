@@ -25,5 +25,5 @@ component only goes half that way, from black to the chosen hue).
 
 ### Knowledge required:
 <p align="center">
-       <img src="https://cdn.filestackcontent.com/s5AAht0bQv6JnEdKLwkm" width="200px">
+       <img src="https://cdn.filestackcontent.com/s5AAht0bQv6JnEdKLwkm" width="340px">
 </p>
