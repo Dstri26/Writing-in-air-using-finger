@@ -20,7 +20,7 @@ component only goes half that way, from black to the chosen hue).
 ### This is how our project looks like:
 
 <p align="center">
-   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0QAuwWNl-  -/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/1l1xyvsi3g0h4gpm23nt.jpg" width="800px">
+   <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200421024152/sample_project_img1.png" width="800px">
 </p>
 
 ### Knowledge required:
