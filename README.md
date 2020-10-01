@@ -8,7 +8,7 @@
     
 First image is HSL and Second one is HSV
     
-We use HSl because :
+We use HSL because :
     
  In HSL, the Saturation component always goes from fully saturated color to the equivalent gray (in HSV, with V at
  maximum, it goes from saturated color to white, which may be considered counterintuitive).
